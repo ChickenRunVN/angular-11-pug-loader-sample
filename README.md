@@ -1,6 +1,6 @@
 # MyApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2 for resolve the problem happened with Angular CLI version 11. For more details, please take a look at [here](https://github.com/danguilherme/ng-cli-pug-loader/issues/38).
 
 ## Development server
 
